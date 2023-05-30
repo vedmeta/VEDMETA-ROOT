@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "709f25f6-alpha",
+    "version": "709f25f6-vedmeta",
     "versionCode": "26101",
     "link": "https://raw.githubusercontent.com/vedmeta/VEDMETA-ROOT/main/app-release.apk",
     "note": "https://github.com/topjohnwu/magisk-files/raw/canary/notes.md"
